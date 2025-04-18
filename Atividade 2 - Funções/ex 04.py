@@ -111,7 +111,8 @@ def transaction_history():
     global deposit_list
     global withdraw_list
 
-
+    print('Suas informações de transações foram:')
+    print('')
     if len(transaction_list) == 0:
         print('Não houve nenhuma transação!')
     else:
