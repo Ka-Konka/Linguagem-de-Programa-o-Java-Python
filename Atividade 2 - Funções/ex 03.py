@@ -1,5 +1,3 @@
-import json
-
 picked_chairs = []
 chairs_map = [
     ['0', '0', '0', '0', '0'],
